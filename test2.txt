@@ -1,0 +1,4 @@
+this is the second file press i to insert 
+and press esc to stop writing the txt file
+after that press shift+: wq to come out of the written file
+

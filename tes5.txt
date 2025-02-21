@@ -1,0 +1,4 @@
+ you change the brnach from master to newly created branches
+ for creating branch use git create firstbranch
+ use git checkout firstbranch to change brnach from master to firstbranch
+

@@ -1,0 +1,3 @@
+using vi command we can create the file but issue will come it will be created in your system only but for commiting changes online you should upload those to the repository 
+for that you can use the command in the git bash 
+that is the git add test4.txt

@@ -1,0 +1,6 @@
+ its the 3rd file 
+ you can peek here 
+ using cat + file name 
+ which will help you to 
+ see the content in git bash 
+
