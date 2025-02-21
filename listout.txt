@@ -1,0 +1,4 @@
+
+i can merge the data of two branches by using the command
+git merge firstbranch 
+it will add the missing elements in the master branch
